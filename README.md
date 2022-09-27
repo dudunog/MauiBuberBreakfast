@@ -1,7 +1,5 @@
 <h1 align="center">
-  <br>
-    <h1 align="center">Buber Breakfast</h1>
-  <br>
+  Buber Breakfast
 </h1>
 
 <p align="center">Simple app built with .NET Maui.</p>
