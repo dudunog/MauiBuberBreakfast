@@ -16,8 +16,8 @@
 <div align="center">
   <img
     src="public/buber-breakfast-homepage.png"
-    alt="Cowala Software"
-    title="Cowala Software"
+    alt="Buber Breakfast"
+    title="Buber Breakfast"
   />
 </div>
 
